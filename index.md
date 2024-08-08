@@ -53,3 +53,7 @@ my_sandwich.compile()
 
 # Sandwich compilation complete!
 ```
+
+- [X] Get some bread
+- [ ] Make samich
+- [ ] Eat samich
